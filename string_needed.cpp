@@ -74,7 +74,7 @@ static int elf_get_needed(char* head) {
 }
 
 int main(int argc, char* argv[]) {
-	// first commit
+	// first commit!
 	PVOID pData = NULL;
 	DWORD iSize = 0;
 	HANDLE hFile = INVALID_HANDLE_VALUE;
